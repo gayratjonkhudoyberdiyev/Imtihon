@@ -1,0 +1,291 @@
+.container{
+    width: 1440px;
+    height: 2920px;
+    background-color: rgb(231, 219, 219);
+    
+    margin: auto;
+    
+}
+
+.container .header{
+    background-image: url('images/rasm1.jpg');
+    width: 1440px;
+    height: 650px;
+    
+    
+}
+.header .logo1{
+    display: flex;
+}
+.header .logo1 .logo{
+    margin-left: 165px;
+    margin-top: 64px;
+    margin-right: 500px;
+}
+
+ul, li, a{
+    font-family: 'Josefin Sans';
+    text-decoration: none;
+    margin-top: 35px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.67;
+    margin-left: 20px;
+    color: white;
+    
+}
+ul, li, a:hover{
+    color: yellow;
+}
+.that{
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    width: 500px;
+    height: 250px;
+    border: 2px solid #FFFFFF;
+}
+
+.deliver .that{
+    font-family: 'Josefin Sans';
+    font-size: 72px;
+    font-weight: 250px;
+    margin-left: 100px;
+    margin-top: 120px;
+    color: white;
+    
+
+}
+.hammasi{
+    display: flex;
+}
+.hammasi .left-side .rasm2{
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.hammasi .rigth-side .leader{
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    font-size: 48px;
+    margin-top: 450px;
+    margin-left: 30px;
+}
+.hammasi .rigth-side .been{
+    font-weight: 400;
+    font-family: 'Josefin Sans';
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+.creations{
+    display: flex;
+}
+.creations .our{
+    font-weight: 300px;
+    font-size: 48px;
+    font-family: 'Josefin Sans';
+    margin-left: 150px;
+    margin-top: 200px;
+
+}
+.creations .btn{
+    margin-left: 600px;
+    margin-top: 200px;
+    width: 157px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Josefin Sans';
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+
+}
+.creations .btn:hover{
+    border-color: rgb(231, 219, 219);
+    background-color: black;
+    color: white;
+    
+}
+
+.bacrasm .rasmm1{
+    
+    margin-left: 160px;
+    margin-top: 80px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+   
+    background-image: url("images/bacrasm.png");
+}
+.bacrasm .rasmm1 .span{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+.bacrasm .rasmm2{
+    margin-left: 30px;
+    margin-top: 80px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+    background-image: url("images/bacrasm2.png");
+}
+.bacrasm .rasmm2 .span2{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+
+.bacrasm .rasmm3{
+    margin-left: 30px;
+    margin-top: 80px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+    background-image: url("images/bacrasm3.png");
+}
+.bacrasm .rasmm3 .span3{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+.bacrasm .rasmm4{
+    margin-left: 30px;
+    margin-top: 80px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+    background-image: url("images/bacrasm4.png");
+}
+.bacrasm .rasmm4 .span4{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+
+
+
+
+.bacrasm1 .rasmm5{
+    
+    margin-left: 160px;
+    margin-top: 30px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+   
+    background-image: url("images/bacrasm5.png");
+}
+.bacrasm1 .rasmm5 .span5{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+.bacrasm1 .rasmm6{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+    background-image: url("images/bacrasm6.png");
+}
+.bacrasm1 .rasmm6 .span6{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+
+.bacrasm1 .rasmm7{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+    background-image: url("images/bacrasm7.jpg");
+}
+.bacrasm1 .rasmm7 .span7{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+.bacrasm1 .rasmm8{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 256px;
+    height: 450px;
+    font-size: 32px;
+    font-weight: 300px;
+    font-family: 'Josefin Sans';
+    color: white;
+    background-image: url("images/bacrasm8.jpg");
+}
+.bacrasm1 .rasmm8 .span8{
+    padding-top: 354px;
+    padding-left: 40px;
+}
+
+
+.bacrasm{
+    display: flex;
+}
+
+.bacrasm1{
+    display: flex;
+}
+
+
+
+.loopstudio{
+    margin-top: 200px;
+    width: 1440px;
+    height: 160px;
+    background-color: black;
+}
+
+.loopstudio .loop{
+    display: flex;
+}
+.loopstudio .loop .img{
+    margin-left: 165px;
+    margin-top: 50px;
+}
+.loopstudio .loop .img2{
+    margin-left: 850px;
+    margin-top: 50px;
+    
+}
+.loopstudio .loop .img2 .path{
+    margin-left: 12px;
+}
+.about5{
+    display: flex;
+}
+
+.about5 .about6{
+   margin-left: 55px ;
+}
+.about5 .reseved{
+    color: white;
+    margin-left: 590px;
+    margin-top: 40px;
+    font-size: 15px;
+    font-family: 'Josefin Sans';
+}
